@@ -8,7 +8,16 @@ There are a few ways to use the code but for now I will create a python file whi
 - csv - Allows you to edit CSV files (https://docs.python.org/3/library/csv.html)
 - boto3 - Mostly use to levearge APIs calls in your AWS Account, does require AWS CLI to in order to configure Access and Secret Keys (https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html)
 
-### How to use the script
+### Installing Requirements and How to use the script
+
+To run the script, you will need to have Python 3.6+ installed.  
+Dependencies are listed in **requirements.txt**. You can install them using:  
+```
+pip3 install -r requirements.txt
+```
+
+Once the requirements are installed you will need to update main.py and reference the function example_sql_query(). This function has a example of how to use pymysql and you enter your own SQL command based of your database tables. I will create a python task with screen shots in the examples folder leverage a RDS database in AWS. 
+
 
 ### How can this help with day-to-day tasks
 
