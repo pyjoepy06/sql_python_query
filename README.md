@@ -17,4 +17,4 @@ AWS Secret Manager is very easy to setup and is free to use and they will provid
 
 
 
-<img src="https://github.com/pyjoepy06/sql_python_query/blob/main/docs/aws_secrets_manager.GIF" width="400" height="400" />
+<img src="https://github.com/pyjoepy06/sql_python_query/blob/main/docs/aws_secrets_manager.GIF" width="1000" height="400" />
