@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+pymysql/pyvenv.cfg
+pymysql/Scripts/activate
+pymysql/Scripts/activate.bat
+pymysql/Scripts/Activate.ps1
+pymysql/Scripts/deactivate.bat
+pymysql/Scripts/easy_install-3.7.exe
+pymysql/Scripts/easy_install.exe
+pymysql/Scripts/pip.exe
+pymysql/Scripts/pip3.exe
+pymysql/Scripts/pip3.7.exe
+pymysql/Scripts/python.exe
+pymysql/Scripts/pythonw.exe
