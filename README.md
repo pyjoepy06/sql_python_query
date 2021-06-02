@@ -1,6 +1,13 @@
 # Use Python to Query SQL DB and Create CSV/Excel Files
 There are a few ways to use the code but for now I will create a python file which will simply intake your SQL DB hostname, port, and SQL query. Ideally once your have your query working you can imporve on it and create more functions based off your company needs
 
+### Imported Modules
+
+shutil - helps automate copying files and directories (https://docs.python.org/3/library/shutil.html)
+openpyxl - Allows you edit excel files (https://openpyxl.readthedocs.io/en/stable/)
+csv - Allows you to edit CSV files (https://docs.python.org/3/library/csv.html)
+boto3 - Mostly use to levearge APIs calls in your AWS Account, does require AWS CLI to in order to configure Access and Secret Keys (https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html)
+
 ### How to use the script
 
 ### How can this help with day-to-day tasks
