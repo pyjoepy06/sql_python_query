@@ -16,3 +16,5 @@ Security is very important I'm going to use AWS Secrets Manager to store my Data
 AWS Secret Manager is very easy to setup and is free to use and they will provide the code for you to use APIs to contact to the Secrets Manager in that region (note this will require assume-role and other AWS security features to work)
 
 ![](https://github.com/pyjoepy06/sql_python_query/blob/main/docs/aws_secrets_manager.GIF)
+
+<!--- <img src="https://github.com/pyjoepy06/sql_python_query/blob/main/docs/aws_secrets_manager.GIF" width="400" height="400" /> --->
