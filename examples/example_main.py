@@ -57,7 +57,7 @@ def persons_csv_report_creator(sql_data):
             writer.writerow(row)
 
 def specific_query_persons_csv_report_creator(sql_data):
-    with open('persons_report.csv', 'w', newline='') as f_handle:
+    with open('custom_persons_report.csv', 'w', newline='') as f_handle:
         writer = csv.writer(f_handle)
         header = ['Person_id', 'LastName', 'City']
         writer.writerow(header)
